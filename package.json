@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "note_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trace Tessier",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
